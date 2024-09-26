@@ -1,28 +1,70 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Zecheng Yin"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hi there! I'm glad that you clicked! I'm a fanatic about cutting-edge research about Robotics, VLM/LLM, Computer Vision and Graph Data mining. 
 
-A data-driven personal website
+I am currently a researcher and engineer in Shenzhen Future Network of Intelligence Institute (FNii-Shenzhen) about robotics navigation and VLMs and working closely with Zhen Li in The Chinese University of Hong Kong(Shenzhen).
+
+I was supervised by Yanchun Zhang and Hong Yang in the area of Medicine data mining at Guangzhou University when in M.S. for 3 years. During this period, I had a internship as algorithm engineer at [Kuaishou](https://www.kuaishou.com/en) for NLP data mining and an internship as algorithm engineer at [IDEA](https://www.idea.edu.cn/) for financial graph malware detection.
+
+I was supervised by Zhen Li in the area of Federated Learning and Attack at Guangzhou University when in B.S. for 1 year.
+
+Publications
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+- **Zecheng Yin**, Chonghao Cheng, Yinghong Liao, Zhihao Yuan, Shuguang Cui, Zhen Li. Navigation with VLM framework: Go to Any Language, ICRA'25 (Under Review)
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Getting started
+- **Zecheng Yin**, ResMGCN: Residual Message Graph Convolution Network for Fast Biomedical Interactions Discovering, Arxiv2023
+
+- **Zecheng Yin**, Jinyuan Luo, Yuejun Tan, Yanchun Zhang, TCMCoRep: Traditional Chinese Medicine Data Mining with Contrastive Graph Representation Learning, KSEM'23
+
+- **Zecheng Yin**, Yingpei Wu, and Yanchun Zhang. HGCL: Heterogeneous Graph Contrastive Learning for Traditional Chinese Medicine Prescription Generation, HIS'22
+
+- Yingpei Wu, **Zecheng Yin**, Kaiyuan Zhou, Ruofei Wang, Yun Yang, Zepeng Yin, Chunyang Ruank, Yanchun Zhang. A hybrid-scales graph contrastive learning framework for discovering regularities in traditional Chinese medicine formula, BIBM'21
+
+
+
+Education
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+* Ph.D Looking for it!
+* M.S. in Guangzhou, Guangzhou University, 2020-2023, under Yanchun Zhang and Hong Yang.
+* B.S. in Guangzhou, Guangzhou University, 2016-2020
+
+
+Experience
+======
+* 2023 - now:  Shenzhen Future Network of Intelligence Institute (FNii-Shenzhen)
+  * Research Institute at The Chinese University of Hong Kong(Shenzhen)
+  * Duties includes: Robotics, Navigation
+  * Supervisor: Zhen Li
+
+* 2024 - now:  Infused Synapse AI
+  * Startup Company in Artifical Intelligent
+  * Duties includes: Implementing cutting-edge research to reality
+  
+
+* 2023.9-2023.12: [IDEA](https://www.idea.edu.cn/)(Intern)
+  * Internatinal Digital Economy Academy(IDEA) at Shenzhen
+  * Graph Mining and Anomaly Detection in Fiancial 
+  * Duties included: 
+  * Supervisor: Professor Yiyan Qi
+
+* 2021.6-2022.8: [Kuaishou](https://www.kuaishou.com/en)(Intern)
+  * Natual Language Processing Engineering 
+  * Duties included: Text mining and alignment via transformer fusion, Word2Vec; Pulling data via SQL
+  
+* 2018 - 2019: Research Assistant
+  * Guangzhou University
+  * Federated Learning and Attack
+  * Supervisor: Jin Li
+
+
 
 Site-wide configuration
 ------
