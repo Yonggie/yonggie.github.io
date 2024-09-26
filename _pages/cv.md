@@ -11,26 +11,36 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D Looking for it!
+* M.S. in Guangzhou, Guangzhou University, 2020-2023, under Yanchun Zhang and Hong Yang.
+* B.S. in Guangzhou, Guangzhou University, 2016-2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023 - now:  Shenzhen Future Network of Intelligence Institute (FNii-Shenzhen)
+  * Research Institute at The Chinese University of Hong Kong(Shenzhen)
+  * Duties includes: Robotics, Navigation
+  * Supervisor: Zhen Li
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2024 - now:  Infused Synapse AI
+  * Startup Company in Artifical Intelligent
+  * Duties includes: Implementing cutting-edge research to reality
+  
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2023.9-2023.12: [IDEA](https://www.idea.edu.cn/)(Intern)
+  * Internatinal Digital Economy Academy(IDEA) at Shenzhen
+  * Graph Mining and Anomaly Detection in Fiancial 
+  * Duties included: 
+  * Supervisor: Professor Yiyan Qi
+
+* 2021.6-2022.8: [Kuaishou](https://www.kuaishou.com/en)(Intern)
+  * Natual Language Processing Engineering 
+  * Duties included: Text mining and alignment via transformer fusion, Word2Vec; Pulling data via SQL
+  
+* 2018 - 2019: Research Assistant
+  * Guangzhou University
+  * Federated Learning and Attack
+  * Supervisor: Jin Li
   
 Skills
 ======
