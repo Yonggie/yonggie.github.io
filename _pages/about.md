@@ -11,7 +11,7 @@ Hi there! I'm glad that you clicked! I'm a fanatic about cutting-edge research a
 
 I am currently a researcher and engineer in Shenzhen Future Network of Intelligence Institute (FNii-Shenzhen) about robotics navigation and VLMs and working closely with [Yatong Han](https://scholar.google.com.hk/citations?user=qO7xbbgAAAAJ) and Prof. [Zhen Li](https://mypage.cuhk.edu.cn/academics/lizhen/) in The Chinese University of Hong Kong(Shenzhen).
 
-I was advised by Prof. [Yanchun Zhang](https://scholar.google.com/citations?user=Z6oy0YIAAAAJ) and [Hong Yang](https://ieeexplore.ieee.org/author/37086479105) in the area of Medicine data mining at Guangzhou University when in M.S.. During this period, I had a internship as algorithm engineer at [Kuaishou](https://www.kuaishou.com/en) for NLP data mining and an internship as algorithm engineer at [IDEA](https://www.idea.edu.cn/) for financial graph malware detection.
+I was advised by Prof. [Yanchun Zhang](https://scholar.google.com/citations?user=Z6oy0YIAAAAJ) and [Hong Yang](https://ieeexplore.ieee.org/author/37086479105) in the area of Medicine data mining at Guangzhou University when in M.S.. During this period, I had an internship as algorithm engineer at [Kuaishou](https://www.kuaishou.com/en) for NLP data mining and an internship as algorithm engineer at [IDEA](https://www.idea.edu.cn/) for financial graph malware detection.
 
 I was advised by Prof. [Jin Li](https://scholar.google.com/citations?user=7GDV2vUAAAAJ) in the area of Federated Learning and Attack at Guangzhou University when in B.S..
 
@@ -45,15 +45,14 @@ Experience
   * Supervisor: Zhen Li
 
 * 2024 - now:  Infused Synapse AI
-  * Startup Company in Artifical Intelligent
+  * Startup Company in Embodied AI
   * Duties includes: Implementing cutting-edge research to reality
   
 
 * 2023.9-2023.12: [IDEA](https://www.idea.edu.cn/)(Intern)
   * Internatinal Digital Economy Academy(IDEA) at Shenzhen
-  * Graph Mining and Anomaly Detection in Fiancial 
-  * Duties included: 
-  * Supervisor: Professor Yiyan Qi
+  * Graph Mining and Anomaly Detection in financial 
+  * Supervisor: PostDoc. Yiyan Qi
 
 * 2021.6-2022.8: [Kuaishou](https://www.kuaishou.com/en)(Intern)
   * Natual Language Processing Engineering 
