@@ -22,11 +22,11 @@ Publications
 
 - **Zecheng Yin**, ResMGCN: Residual Message Graph Convolution Network for Fast Biomedical Interactions Discovering, Arxiv2023
 
-- **Zecheng Yin**, Jinyuan Luo, Yuejun Tan, Yanchun Zhang, TCMCoRep: Traditional Chinese Medicine Data Mining with Contrastive Graph Representation Learning, KSEM'23
+- **Zecheng Yin**, Jinyuan Luo, Yuejun Tan, Yanchun Zhang, TCMCoRep: Traditional Chinese Medicine Data Mining with Contrastive Graph Representation Learning, KSEM'23 (acceptance rate: 23.1%)
 
-- **Zecheng Yin**, Yingpei Wu, and Yanchun Zhang. HGCL: Heterogeneous Graph Contrastive Learning for Traditional Chinese Medicine Prescription Generation, HIS'22
+- **Zecheng Yin**, Yingpei Wu, and Yanchun Zhang. HGCL: Heterogeneous Graph Contrastive Learning for Traditional Chinese Medicine Prescription Generation, HIS'22 (acceptance rate: 27.78%)
 
-- Yingpei Wu, **Zecheng Yin**, Kaiyuan Zhou, Ruofei Wang, Yun Yang, Zepeng Yin, Chunyang Ruank, Yanchun Zhang. A hybrid-scales graph contrastive learning framework for discovering regularities in traditional Chinese medicine formula, BIBM'21
+- Yingpei Wu, **Zecheng Yin**, Kaiyuan Zhou, Ruofei Wang, Yun Yang, Zepeng Yin, Chunyang Ruank, Yanchun Zhang. A hybrid-scales graph contrastive learning framework for discovering regularities in traditional Chinese medicine formula, BIBM'21 (acceptance rate: 19.6%).
 
 
 
@@ -52,7 +52,7 @@ Experience
 * 2023.9-2023.12: [IDEA](https://www.idea.edu.cn/)(Intern)
   * Internatinal Digital Economy Academy(IDEA) at Shenzhen
   * Graph Mining and Anomaly Detection in financial 
-  * Supervisor: PostDoc. Yiyan Qi
+  * Supervisor: [PostDoc. Yiyan Qi](https://scholar.google.com/citations?user=ZG9GqnMAAAAJ)
 
 * 2021.6-2022.8: [Kuaishou](https://www.kuaishou.com/en)(Intern)
   * Natual Language Processing Engineering 
