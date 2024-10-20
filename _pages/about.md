@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I'm glad that you clicked! I'm a fanatic about cutting-edge research about Robotics, VLM/LLM, Computer Vision and Graph Data mining. 
+Hi there! I'm glad that you clicked! I'm a fanatic about cutting-edge research about Robotics, VLM/LLM, Computer Vision and Graph Data mining, AI4science. 
 
 I am currently a researcher and engineer in Shenzhen Future Network of Intelligence Institute (FNii-Shenzhen) about robotics navigation and VLMs and working closely with [Yatong Han](https://scholar.google.com.hk/citations?user=qO7xbbgAAAAJ) and Prof. [Zhen Li](https://mypage.cuhk.edu.cn/academics/lizhen/) in The Chinese University of Hong Kong(Shenzhen).
 
@@ -33,7 +33,8 @@ Publications
 Education
 ======
 * Ph.D Looking for it!
-* M.S. in Guangzhou, Guangzhou University, 2020-2023, advised by [Yanchun Zhang](https://www.vu.edu.au/research/yanchun-zhang) and Hong Yang.
+* M.S. in Guangzhou, Guangzhou University, 2020-2023, advised by [Yanchun Zhang](https://www.vu.edu.au/research/yanchun-zhang).
+* B.S. exchange student in Seattle, University of Washington, 2018-2018, by [Melody Su](https://www.ece.uw.edu/people/yun-hsuan-melody-su/)
 * B.S. in Guangzhou, Guangzhou University, 2016-2020
 
 
