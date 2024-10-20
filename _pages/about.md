@@ -9,9 +9,9 @@ redirect_from:
 
 Hi there! I'm glad that you clicked! I'm a fanatic about cutting-edge research about Robotics, VLM/LLM, Computer Vision and Graph Data mining, AI4science. 
 
-I am currently a researcher and engineer in Shenzhen Future Network of Intelligence Institute (FNii-Shenzhen) about robotics navigation and VLMs and working closely with [Yatong Han](https://scholar.google.com.hk/citations?user=qO7xbbgAAAAJ) and Prof. [Zhen Li](https://mypage.cuhk.edu.cn/academics/lizhen/) in The Chinese University of Hong Kong(Shenzhen).
+I am currently a researcher and engineer in Shenzhen Future Network of Intelligence Institute (FNii-Shenzhen) led by fellow of Canadian Academy of Engineering, Shuguang Cui about robotics navigation and VLMs and working closely with [Yatong Han](https://scholar.google.com.hk/citations?user=qO7xbbgAAAAJ) and Prof. [Zhen Li](https://mypage.cuhk.edu.cn/academics/lizhen/) in The Chinese University of Hong Kong(Shenzhen).
 
-I was advised by Prof. [Yanchun Zhang](https://scholar.google.com/citations?user=Z6oy0YIAAAAJ) and [Hong Yang](https://ieeexplore.ieee.org/author/37086479105) in the area of Medicine data mining at Guangzhou University when in M.S.. During this period, I had an internship as algorithm engineer at [Kuaishou](https://www.kuaishou.com/en) for NLP data mining and an internship as algorithm engineer at [IDEA](https://www.idea.edu.cn/) for financial graph malware detection.
+I was advised by Prof. [Yanchun Zhang](https://scholar.google.com/citations?user=Z6oy0YIAAAAJ) and [Hong Yang](https://ieeexplore.ieee.org/author/37086479105) in the area of Medicine data mining at Guangzhou University when in M.S.. During this period, I had an internship as an algorithm engineer at [Kuaishou](https://www.kuaishou.com/en) for NLP data mining and an internship as an algorithm engineer at [IDEA](https://www.idea.edu.cn/) for financial graph malware detection.
 
 I was advised by Prof. [Jin Li](https://scholar.google.com/citations?user=7GDV2vUAAAAJ) in the area of Federated Learning and Attack at Guangzhou University when in B.S..
 
