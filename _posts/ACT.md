@@ -1,11 +1,11 @@
 ---
-title: 'Action Chunking with Transformer(ACT), RSS'23'
+title: 'Action Chunking with Transformer(ACT), RSS23'
 date: 2023-12-22
 permalink: /posts/2023/08/blog-post-1/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - CVAE
+  - ARM
+  - Transformer
 ---
 
 # Motivation
