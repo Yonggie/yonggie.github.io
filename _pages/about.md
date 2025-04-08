@@ -17,7 +17,7 @@ I was advised by Prof. [Jin Li](https://scholar.google.com/citations?user=7GDV2v
 
 Publications
 ======
-- **Zecheng Yin**, Chonghao Cheng, Yinghong Liao, Zhihao Yuan, Shuguang Cui, Zhen Li. Navigation with VLM framework: Go to Any Language, ICRA'25 (Under Review)
+- **Zecheng Yin**, Chonghao Cheng, Yinghong Liao, Zhihao Yuan, Shuguang Cui, Zhen Li. Navigation with VLM framework: Go to Any Language, IROS'25 (Under Review)
 
 
 - **Zecheng Yin**, ResMGCN: Residual Message Graph Convolution Network for Fast Biomedical Interactions Discovering, Arxiv2023
