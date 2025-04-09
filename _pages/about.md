@@ -16,7 +16,10 @@ I was advised by Prof. [Yanchun Zhang](https://scholar.google.com/citations?user
 I was advised by Prof. [Jin Li](https://scholar.google.com/citations?user=7GDV2vUAAAAJ) in the area of Federated Learning and Attack at Guangzhou University when in B.S..
 
 Publications
+
 ======
+- Benchmarking VLM & Non-VLM Object-Oriented Navigation and Fully Exploration in HM3D Scenes, (On-Going)
+
 - **Zecheng Yin**, Chonghao Cheng, Yinghong Liao, Zhihao Yuan, Shuguang Cui, Zhen Li. Navigation with VLM framework: Go to Any Language, IROS'25 (Under Review)
 
 
