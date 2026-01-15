@@ -28,11 +28,11 @@ Publications
 
 - **Zecheng Yin**, ResMGCN: Residual Message Graph Convolution Network for Fast Biomedical Interactions Discovering, Arxiv2023
 
-- **Zecheng Yin**, Jinyuan Luo, Yuejun Tan, Yanchun Zhang, TCMCoRep: Traditional Chinese Medicine Data Mining with Contrastive Graph Representation Learning, KSEM'23 (acceptance rate: 23.1%)
+- **Zecheng Yin**, Jinyuan Luo, Yuejun Tan, Yanchun Zhang, TCMCoRep: Traditional Chinese Medicine Data Mining with Contrastive Graph Representation Learning, KSEM'23 (acceptance rate: 23.1%, CCF-B, Core B)
 
 - **Zecheng Yin**, Yingpei Wu, and Yanchun Zhang. HGCL: Heterogeneous Graph Contrastive Learning for Traditional Chinese Medicine Prescription Generation, HIS'22 (acceptance rate: 27.78%)
 
-- Yingpei Wu, **Zecheng Yin**, Kaiyuan Zhou, Ruofei Wang, Yun Yang, Zepeng Yin, Chunyang Ruank, Yanchun Zhang. A hybrid-scales graph contrastive learning framework for discovering regularities in traditional Chinese medicine formula, BIBM'21 (acceptance rate: 19.6%).
+- Yingpei Wu, **Zecheng Yin**, Kaiyuan Zhou, Ruofei Wang, Yun Yang, Zepeng Yin, Chunyang Ruank, Yanchun Zhang. A hybrid-scales graph contrastive learning framework for discovering regularities in traditional Chinese medicine formula, BIBM'21 (acceptance rate: 19.6%, CCF-B, Core B).
 
 
 
