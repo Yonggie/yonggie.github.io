@@ -43,6 +43,13 @@ Education
 * B.S. exchange student in Seattle, University of Washington, 2018-2018, by [Melody Su](https://www.ece.uw.edu/people/yun-hsuan-melody-su/)
 * B.S. in Guangzhou, Guangzhou University, 2016-2020
 
+Academic Activities
+======
+* Host of workshop TopoCoT on behalf of Dr. Zhen Li in WACV2026
+* Oral presentation in KSEM 2023
+* Oral presentation in HIS 2022
+
+
 
 Experience
 ======
