@@ -9,7 +9,7 @@ redirect_from:
 
 Hi there! I'm glad that you clicked! I'm a fanatic about cutting-edge research about Robotics, VLM/LLM, Computer Vision and Graph Data mining, AI4science. 
 
-I am currently a researcher and engineer in Shenzhen Future Network of Intelligence Institute (FNii-Shenzhen) led by fellow of Canadian Academy of Engineering, Shuguang Cui about robotics navigation and VLMs and working closely with [Yatong Han](https://scholar.google.com.hk/citations?user=qO7xbbgAAAAJ) and Prof. [Zhen Li](https://mypage.cuhk.edu.cn/academics/lizhen/) in The Chinese University of Hong Kong(Shenzhen).
+I am currently a researcher and engineer in Shenzhen Future Network of Intelligence Institute (FNii-Shenzhen) led by fellow of Canadian Academy of Engineering, Shuguang Cui about robotics navigation and VLMs and working closely with Prof. [Zhen Li](https://mypage.cuhk.edu.cn/academics/lizhen/) in The Chinese University of Hong Kong(Shenzhen).
 
 I was advised by Prof. [Yanchun Zhang](https://scholar.google.com/citations?user=Z6oy0YIAAAAJ) and [Hong Yang](https://ieeexplore.ieee.org/author/37089365868) in the area of Medicine data mining at Guangzhou University when in M.S.. During this period, I had an internship as an algorithm engineer at [Kuaishou](https://www.kuaishou.com/en) for NLP data mining and an internship as an algorithm engineer at [IDEA](https://www.idea.edu.cn/) for financial graph malware detection.
 
@@ -18,12 +18,12 @@ I was advised by Prof. [Jin Li](https://scholar.google.com/citations?user=7GDV2v
 Publications
 
 ======
-- Depth-aware Memory Navigation agent in Unknown Indoor Rnvironment(On Going)
+- **Zecheng Yin**, Yizhou Zhu, Xiaomin Wu, Shuguang Cui, Zhen Li. EffiNav: Efficient ObjectNav Memory Navigation agent in Unknown Indoor Rnvironment(Under Review)
 
-- **Zecheng Yin**, Xiaomin Wu, Shuguang Cui, Zhen Li. HyPerNav: Hybrid Perception for Object-Oriented Navigation in
- Unknown Environment, ICRA'26 (Under Review)
+- **Zecheng Yin**, Shuguang Cui, Zhen Li. HyPerNav: Hybrid Perception for Object-Oriented Navigation in
+ Unknown Environment,  (Under Review)
 
-- **Zecheng Yin**, Chonghao Cheng, Yinghong Liao, Zhihao Yuan, Shuguang Cui, Zhen Li. Navigation with VLM framework: Go to Any Language, ICRA'26 (Under Review)
+- **Zecheng Yin**, Chonghao Cheng, Yinghong Liao, Zhihao Yuan, Shuguang Cui, Zhen Li. Navigation with VLM framework: Go to Any Language,  (Under Review)
 
 
 - **Zecheng Yin**, ResMGCN: Residual Message Graph Convolution Network for Fast Biomedical Interactions Discovering, Arxiv2023
