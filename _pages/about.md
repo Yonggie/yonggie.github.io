@@ -18,7 +18,7 @@ I was advised by Prof. [Jin Li](https://scholar.google.com/citations?user=7GDV2v
 Publications
 
 ======
-- **Zecheng Yin**, Yizhou Zhu, Xiaomin Wu, Shuguang Cui, Zhen Li. EffiNav: Efficient ObjectNav Memory Navigation agent in Unknown Indoor Rnvironment(Under Review)
+- **Zecheng Yin**, Yizhou Zhu, Xiaomin Wu, Shuguang Cui, Zhen Li. EffiNav: Efficient ObjectNav Memory Navigation agent in Unknown Indoor Rnvironment. (Under Review)
 
 - **Zecheng Yin**, Shuguang Cui, Zhen Li. HyPerNav: Hybrid Perception for Object-Oriented Navigation in
  Unknown Environment,  (Under Review)
@@ -57,12 +57,7 @@ Experience
   * Research Institute at The Chinese University of Hong Kong(Shenzhen)
   * Duties includes: Robotics, Navigation
   * Supervisor: Zhen Li
-
-* 2024 - now:  Infused Synapse AI
-  * Startup Company in Embodied AI
-  * 
-  * Duties includes: Implementing cutting-edge research to reality
-  
+ 
 
 * 2023.9-2023.12: [IDEA](https://www.idea.edu.cn/)(Intern)
   * Internatinal Digital Economy Academy(IDEA) at Shenzhen
