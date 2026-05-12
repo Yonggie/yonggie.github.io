@@ -38,7 +38,7 @@ Publications
 
 Education
 ======
-* Ph.D Looking for it!
+
 * M.S. in Guangzhou, Guangzhou University, 2020-2023, advised by [Yanchun Zhang](https://www.vu.edu.au/research/yanchun-zhang).
 * B.S. exchange student in Seattle, University of Washington, 2018-2018, by [Melody Su](https://www.ece.uw.edu/people/yun-hsuan-melody-su/)
 * B.S. in Guangzhou, Guangzhou University, 2016-2020
