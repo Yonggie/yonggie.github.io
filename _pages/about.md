@@ -9,7 +9,7 @@ redirect_from:
 
 Hi there! I'm glad that you clicked! I'm a fanatic about cutting-edge research about Robotics, embodied AI, VLM/LLM, Computer Vision and Graph Data mining. 
 
-I am currently a PhD candidate in Hong Kong University of Science and Technology(Guangzhou)(HKUST-GZ) advised by [Dr. Benedict Jun Ma](https://benedictjunma.github.io/) at [Intelligent Logistics and Supply Chain Analytics (iLSCA) Lab](https://benedictjunma.github.io/people/).
+I am currently a PhD candidate in Hong Kong University of Science and Technology(Guangzhou)(HKUST-GZ) advised by [Dr. Benedict Jun Ma](https://benedictjunma.github.io/) and co-advised by [Jun Ma](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/MA-Jun/eejma/) at [Intelligent Logistics and Supply Chain Analytics (iLSCA) Lab](https://benedictjunma.github.io/people/).
 
 Recently, I am conducting robotic navigation researches in [Vionbotic](https://www.vionbotics.com/) of [SangFor Inc](https://www.sangfor.com/) advised by [Xiaobo Wang](https://scholar.google.com/citations?user=B9qnJaYAAAAJ).
 
@@ -53,7 +53,7 @@ Academic Activities
 
 Experience
 ======
-* 2023 - now:  Shenzhen Future Network of Intelligence Institute (FNii-Shenzhen)
+* 2023 - 2026:  Shenzhen Future Network of Intelligence Institute (FNii-Shenzhen)
   * Research Institute at The Chinese University of Hong Kong(Shenzhen)
   * Duties includes: Robotics, Navigation
   * Supervisor: Zhen Li
