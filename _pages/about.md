@@ -53,6 +53,10 @@ Academic Activities
 
 Experience
 ======
+* 2026 - 2026:  Shanghai Embodied AI Equipment, Sangfor Intern
+  * human language navigation in unknown environment
+  * Supervisor: Xiaobo Wang
+
 * 2023 - 2026:  Shenzhen Future Network of Intelligence Institute (FNii-Shenzhen)
   * Research Institute at The Chinese University of Hong Kong(Shenzhen)
   * Duties includes: Robotics, Navigation
