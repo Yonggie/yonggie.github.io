@@ -11,7 +11,6 @@ Hi there! I'm glad that you clicked! I'm a fanatic about cutting-edge research a
 
 I am currently a PhD candidate in Hong Kong University of Science and Technology(Guangzhou)(HKUST-GZ) advised by [Dr. Benedict Jun Ma](https://benedictjunma.github.io/) and co-advised by [Jun Ma](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/MA-Jun/eejma/) at [Intelligent Logistics and Supply Chain Analytics (iLSCA) Lab](https://benedictjunma.github.io/people/).
 
-Recently, I am conducting robotic navigation researches in [Vionbotic](https://www.vionbotics.com/) of [SangFor Inc](https://www.sangfor.com/) advised by [Xiaobo Wang](https://scholar.google.com/citations?user=B9qnJaYAAAAJ).
 
 I was advised by Prof. [Yanchun Zhang](https://scholar.google.com/citations?user=Z6oy0YIAAAAJ) in the area of contrastive learning at Guangzhou University when in M.S.. During this period, I had an internship as an algorithm engineer at [Kuaishou](https://www.kuaishou.com/en) for NLP data mining and an internship as an algorithm engineer at [IDEA](https://www.idea.edu.cn/) for financial graph malware detection.
 
@@ -53,9 +52,9 @@ Academic Activities
 
 Experience
 ======
-* 2026 - 2026:  Shanghai Embodied AI Equipment, Sangfor Intern
+* 2026 - 2026:  Shanghai Embodied AI Equipment, [Vionbotic](https://www.vionbotics.com/) of [SangFor Inc](https://www.sangfor.com/)
   * human language navigation in unknown environment
-  * Supervisor: Xiaobo Wang
+  * Supervisor: [Xiaobo Wang](https://scholar.google.com/citations?user=B9qnJaYAAAAJ)
 
 * 2023 - 2026:  Shenzhen Future Network of Intelligence Institute (FNii-Shenzhen)
   * Research Institute at The Chinese University of Hong Kong(Shenzhen)
